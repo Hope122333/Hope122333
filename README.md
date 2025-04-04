@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Viktoria</h1>
-<h3 align="center">Data Analyst from Russia</h3>
+<h3 align="center">3-d is an artist from Russia</h3>
 <img align = "right" alt = "coding" width = "400" src ="https://luxe-host.ru/wp-content/uploads/7/7/8/778c785fa5e9d43f11f235712d5a104d.gif">
 
 
